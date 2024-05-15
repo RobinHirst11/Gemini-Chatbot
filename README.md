@@ -43,7 +43,7 @@ The bot will respond with a message, and you can continue the conversation natur
 
 **License:**
 
-This project is licensed under the Fuck You License.
+This project is licensed under the [Fuck You License](LICENSE).
 
 **Contributions:**
 
