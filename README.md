@@ -43,7 +43,7 @@ The bot will respond with a message, and you can continue the conversation natur
 
 **License:**
 
-This project is licensed under the [HPOG](LICENSE).
+This project is licensed under the [HPOG License](LICENSE).
 
 **Contributions:**
 
