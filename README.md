@@ -1,4 +1,4 @@
-## Gemini Therapist Discord Bot
+## Gemini Discord Bot
 
 This bot leverages the power of Google's Gemini language model to provide a conversational experience within a Discord server. It allows users to have open-ended conversations with the model, engaging in a variety of topics and receiving responses based on its vast knowledge base.
 
